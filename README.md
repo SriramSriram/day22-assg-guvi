@@ -1,3 +1,2 @@
 # day22-assg-guvi
-
-website: flagsandweathercountries.netlify.app
+flagsandweathercountries.netlify.app
